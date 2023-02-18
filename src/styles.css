@@ -1,0 +1,11 @@
+/*
+Title:  styles.css
+Author: John Vanhessche
+Date 10 February 2023
+Description:  CSS file for the home component.
+*/
+
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

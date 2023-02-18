@@ -1,0 +1,22 @@
+/*
+Title:  sign-in.component.css
+Author: John Vanhessche
+Date 17 February 2023
+Description:  CSS file for the sign-in component.
+*/
+
+.sign-in-container {
+    width: 35%;
+    margin: 15% auto;
+}
+
+.msg-error {
+    margin: 10px 0;
+    padding: 12px;
+    color: #D8000C;
+    background-color: #FFD2D2;
+}
+
+.sign-in-container > mat-card-title, mat-card-subtitle {
+    text-align: center;
+}

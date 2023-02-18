@@ -1,0 +1,16 @@
+/*
+Title:  base-layout.component.css
+Author: John Vanhessche
+Date 10 February 2023
+Description:  CSS file for the base-layout component.
+*/
+
+.logo {
+    margin-top: 5px;
+}
+
+.main-container {
+    padding-top: 25px;
+    width: 80%;
+    margin: 0 auto;
+}
